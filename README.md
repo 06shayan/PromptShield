@@ -41,7 +41,7 @@ Frontend-only. No backend, no database, no authentication — the entire simulat
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/06shayan/PromptShield.git
 cd promptshield
 
 # Install dependencies
